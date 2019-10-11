@@ -1,7 +1,7 @@
 # speech model code
 Based off of google TesorFlow example.
 ## TODO list
-change location info
+Dataset mods
 
 
 export as .tflite
